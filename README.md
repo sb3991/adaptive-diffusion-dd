@@ -1,4 +1,4 @@
-# An-Adaptive-Sampling-Framework-for-Diffusion-based-Dataset-Distillation
+# An Adaptive Sampling Framework for Diffusion based Dataset Distillation
 
 Official Repository for the AAAI 2026 Accepted Paper
 “An Adaptive Sampling Framework for Diffusion-based Dataset Distillation with High Fidelity and Diversity”
