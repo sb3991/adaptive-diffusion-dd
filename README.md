@@ -8,6 +8,6 @@ This repository will contain the official implementation of our adaptive samplin
 The full paper will be available soon on the AAAI 2026 proceedings.
 
 
-Code Release Notice
+# Code Release Notice
 
 We are currently preparing, organizing, and verifying the final version of the codebase.
