@@ -18,17 +18,19 @@ pip install -r requirements.txt
 
 ### How to Run
 To execute the main script, use the following command:
-
+'''
 python ./main.py \
     --subset "cifar10" \
     --arch-name "resnet18_modified" \
     --num-crop 5 \
     --mipc 10 \
     --ipc 10 \
+    --re-epochs 300 \
     --stud-name "conv3" \
     --lam 0.0 \
     --n_iter 5 \
     --init_points 15
+'''
 
 🔹 Arguments Description
 Argument	Description
