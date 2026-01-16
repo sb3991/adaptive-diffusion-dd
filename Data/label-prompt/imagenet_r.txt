@@ -1,0 +1,200 @@
+goldfish, Carassius auratus
+great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias
+hammerhead, hammerhead shark
+stingray
+hen
+ostrich, Struthio camelus
+goldfinch, Carduelis carduelis
+junco, snowbird
+bald eagle, American eagle, Haliaeetus leucocephalus
+vulture
+common newt, Triturus vulgaris
+axolotl, mud puppy, Ambystoma mexicanum
+tree frog, tree-frog
+common iguana, iguana, Iguana iguana
+African chameleon, Chamaeleo chamaeleon
+Indian cobra, Naja naja
+scorpion
+tarantula
+centipede
+peacock
+lorikeet
+hummingbird
+toucan
+drake
+goose
+black swan, Cygnus atratus
+koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus
+jellyfish
+snail
+American lobster, Northern lobster, Maine lobster, Homarus americanus
+hermit crab
+flamingo
+American egret, great white heron, Egretta albus
+pelican
+king penguin, Aptenodytes patagonica
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca
+sea lion
+Chihuahua
+Shih-Tzu
+Afghan hound, Afghan
+basset, basset hound
+beagle
+bloodhound, sleuthhound
+Italian greyhound
+whippet
+Weimaraner
+Yorkshire terrier
+Boston bull, Boston terrier
+Scotch terrier, Scottish terrier, Scottie
+West Highland white terrier
+golden retriever
+Labrador retriever
+cocker spaniel, English cocker spaniel, cocker
+collie
+Border collie
+Rottweiler
+German shepherd, German shepherd dog, German police dog, alsatian
+boxer
+French bulldog
+Saint Bernard, St Bernard
+Siberian husky
+dalmatian, coach dog, carriage dog
+pug, pug-dog
+Pomeranian
+chow, chow chow
+Pembroke, Pembroke Welsh corgi
+toy poodle
+standard poodle
+timber wolf, grey wolf, gray wolf, Canis lupus
+hyena, hyaena
+red fox, Vulpes vulpes
+tabby, tabby cat
+leopard, Panthera pardus
+snow leopard, ounce, Panthera uncia
+lion, king of beasts, Panthera leo
+tiger, Panthera tigris
+cheetah, chetah, Acinonyx jubatus
+ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus
+meerkat, mierkat
+ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle
+fly
+bee
+ant, emmet, pismire
+grasshopper, hopper
+cockroach, roach
+mantis, mantid
+dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk
+monarch, monarch butterfly, milkweed butterfly, Danaus plexippus
+starfish, sea star
+wood rabbit, cottontail, cottontail rabbit
+porcupine, hedgehog
+fox squirrel, eastern fox squirrel, Sciurus niger
+beaver
+guinea pig, Cavia cobaya
+zebra
+hog, pig, grunter, squealer, Sus scrofa
+hippopotamus, hippo, river horse, Hippopotamus amphibius
+bison
+gazelle
+llama
+skunk, polecat, wood pussy
+badger
+orangutan, orang, orangutang, Pongo pygmaeus
+gorilla, Gorilla gorilla
+chimpanzee, chimp, Pan troglodytes
+gibbon, Hylobates lar
+baboon
+giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca
+eel
+anemone fish
+puffer, pufferfish, blowfish, globefish
+accordion, piano accordion, squeeze box
+ambulance
+assault rifle, assault gun
+backpack, back pack, knapsack, packsack, rucksack, haversack
+barn
+barrow, garden cart, lawn cart, wheelbarrow
+basketball
+bathtub, bathing tub, bath, tub
+beacon, lighthouse, beacon light, pharos
+beer glass
+binoculars, field glasses, opera glasses
+birdhouse
+bow tie, bow-tie, bowtie
+broom
+bucket, pail
+caldron, cauldron
+candle, taper, wax light
+cannon
+canoe
+carousel, carrousel, merry-go-round, roundabout, whirligig
+castle
+cellular telephone, cellular phone, cellphone, cell, mobile phone
+cowboy hat, ten-gallon hat
+electric guitar
+fire engine, fire truck
+flute, transverse flute
+gasmask, respirator, gas helmet
+grand piano, grand
+guillotine
+hammer
+harmonica, mouth organ, harp, mouth harp
+harp
+hatchet
+jeep, landrover
+joystick
+lab coat, laboratory coat
+lawn mower, mower
+lipstick, lip rouge
+mailbox, letter box
+missile
+mitten
+parachute, chute
+pickup, pickup truck
+pirate, pirate ship
+revolver, six-gun, six-shooter
+rugby ball
+sandal
+sax, saxophone
+school bus
+schooner
+shield, buckler
+soccer ball
+space shuttle
+spider web, spider's web
+steam locomotive
+stole
+submarine, pigboat, sub, U-boat
+tank, army tank, armored combat vehicle, armoured combat vehicle
+tennis ball
+tractor
+trombone
+vase
+violin, fiddle
+warplane, military plane
+wine bottle
+ice cream, icecream
+bagel, beigel
+pretzel
+cheeseburger
+hotdog, hot dog, red hot
+head cabbage
+broccoli
+cucumber, cuke
+bell pepper
+mushroom
+Granny Smith
+strawberry
+lemon
+pineapple, ananas
+banana
+pomegranate
+pizza, pizza pie
+burrito
+espresso
+volcano
+ballplayer, baseball player
+scuba diver
+acorn
