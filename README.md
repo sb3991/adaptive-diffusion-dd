@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 ### How to Run
 To execute the main script, use the following command:
-'''
+```
 python ./main.py \
     --subset "cifar10" \
     --arch-name "resnet18_modified" \
@@ -30,7 +30,7 @@ python ./main.py \
     --lam 0.0 \
     --n_iter 5 \
     --init_points 15
-'''
+```
 
 🔹 Arguments Description
 Argument	Description
