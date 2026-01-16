@@ -71,7 +71,7 @@ All our raw datasets, including those like ImageNet-1K and CIFAR10, store their 
 ## 📂 Code Structure
 
 ## 📂 Project Structure
-
+```
 ├── main.py                 # Main script for training and evaluation
 ├── argument.py             # Parses command-line arguments for main.py
 ├── data/
@@ -89,3 +89,4 @@ All our raw datasets, including those like ImageNet-1K and CIFAR10, store their 
 ├── validation/ 
 │   ├── main_3.py           # Functions for evaluation
 │   └── utils.py            # Utility functions for evaluation
+```
